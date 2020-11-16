@@ -2,4 +2,4 @@ The April 2015 Nepal earthquake killed over 9,000 people and injured more than 2
 
 ![Output](output/output-english.jpg)
 ![Output](output/output-nepali.jpg)
-![Output](output/output.gif)
+![Output](output/output-animation.gif)
