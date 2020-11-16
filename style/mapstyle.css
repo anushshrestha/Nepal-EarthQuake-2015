@@ -1,0 +1,262 @@
+* {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.tooltip {
+    background-color: lightgrey;
+    height: 50px;
+    width: 200px;
+    position: absolute;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    float: left;
+}
+
+.popup {
+    background-color: white;
+    margin: 5px;
+    height: 50%;
+    width: 35%;
+    left: 30%;
+    top: 25%;
+    border-radius: 15px;
+    position: absolute;
+    -webkit-box-shadow: 10px 10px 47px 0px rgba(0, 0, 0, 0.29);
+    -moz-box-shadow: 10px 10px 47px 0px rgba(0, 0, 0, 0.29);
+    box-shadow: 10px 10px 47px 0px rgba(0, 0, 0, 0.29);
+
+}
+
+#popupWrapper {
+    position: relative;
+    padding: 40px;
+}
+
+#popUpClose {
+
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 20px;
+    right: 20px;
+}
+
+#popUpClose:hover {
+    background: #f4f4f4;
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+#popupBody {
+    height: 80%;
+    width: 90%;
+    margin-left: 36px;
+    margin-top: 68px;
+    border-radius: 15px;
+}
+
+#popupContent {
+    text-align: justify;
+}
+
+.tooltip span {
+    display: block;
+}
+
+.tooltipTitle {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.tooltipValue {
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+#districtSelected {
+    float: left;
+    margin: 35px 20px 0px 35px;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    border: none;
+}
+
+#selectMode {
+    float: right;
+    margin: 37px 37px 0px 10px;
+    cursor: pointer;
+}
+
+#alldistrict {
+    float: right;
+    margin: 37px 37px 0px 10px;
+    border-radius: 10px;
+    color: #000000;
+    font-size: 20px;
+    background: #efefef;
+    border: 1px solid lightgray;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 15px;
+    visibility: hidden;
+    display: block;
+}
+
+#alldistrict:hover, #about:hover ,#langT:hover{
+    background: lightgrey;
+    cursor: pointer;
+}
+
+#about {
+    float: right;
+    margin: 15px 10px 0px 10px;
+    border-radius: 10px;
+    color: #000000;
+    font-size: 20px;
+    background: whitesmoke;
+    text-decoration: none;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 15px;
+    border: none;
+    float: right;
+}
+
+#langT{
+    float: right;
+    margin: 15px 10px 0px 10px;
+    border-radius: 10px;
+    color: #000000;
+    font-size: 20px;
+    background: whitesmoke;
+    text-decoration: none;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 15px;
+    border: none;
+    float: right;
+}
+
+#content {
+    height: 600px;
+    width: 100%;
+}
+
+.maptitle {
+    margin: 15px 1px 0px 10px;
+    float: left;
+    font-size: 29px;
+}
+
+ul#tabs {
+    list-style-type: none;
+    margin: 60px 0 0 0;
+    padding: 0 0 0.3em 0;
+}
+
+ul#tabs li {
+    cursor: pointer;
+    display: inline;
+    font-size: 15px background-color : #fff;
+    border-bottom: 3px solid lightgrey;
+    border-radius: 3px;
+    padding: 0.7em 0.3em 0.28em 0.3em;
+}
+
+.tabContent {
+    padding: 0.5em;
+    background-color: #fff;
+}
+
+ul li:hover, ul li:focus {
+    background-color: whitesmoke;
+    border-radius: 3px;
+}
+
+#map {
+    float: left;
+    width: 70%;
+    height: 760px;
+    background: #fff;
+}
+
+.zoomOut {
+    stroke: #000;
+}
+
+.legend {
+    font-size: 12px;
+}
+
+#barChart {
+    float: right;
+    width: 25%;
+    background: #f4f4f4;
+    margin-right: 45px;
+    margin-top: 60px;
+    border-radius: 15px;
+}
+
+.barchartTitle {
+    font-weight: bold;
+}
+
+#barChartHC {
+    display: block;
+    width: 98%;
+}
+
+#barChartID {
+    display: block;
+    margin-top: 10px;
+    width: 98%;
+
+}
+
+.textZoomOut {
+    border: 1px solid black;
+}
+
+.yellow {
+    fill: #fdcf58;
+    cursor: pointer;
+}
+
+.pink {
+    fill: #f37735;
+    cursor: pointer;
+}
+
+.red {
+    fill: #cb0404;
+    cursor: pointer;
+}
+
+.grey {
+    fill: #eee;
+    cursor: pointer;
+}
+
+.white {
+    fill: #fff;
+    cursor: pointer;
+}
+
+.darkgreen {
+    fill: #68c4af;
+}
+
+.lightgreen {
+    fill: #96ead7;
+}
+

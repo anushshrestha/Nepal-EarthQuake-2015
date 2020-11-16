@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+
+
+    <title></title>
+    <script src="d3.js" charset="utf-8"></script>
+    <link rel="stylesheet" type="text/css" href="style/mapstyle.css">
+
+    </head>
+
+<body>
+
+
+<div id="content">
+
+    <div id="about" onclick="displayPopup()">
+        About
+    </div>
+
+    <div id="langT" onclick="changeLanguage()" current="English">
+        नेपाली
+    </div>
+
+
+    <div id="map">
+        <h4 class="maptitle">Nepal Earthquake 2015</h4>
+        <div class="tabContent">
+            <ul id="tabs">
+                <li id="noOfHitTab" class="tab" onclick="updateMapOnSelect(this.id)">NUMBER OF EARTHQUAKES/
+                    AFTERSHOCKS
+                </li>
+                <li id="maxMagnitudeTab" class="tab" onclick="updateMapOnSelect(this.id)">MAXIMUM MAGNITUDE OF
+                    EARTHQUAKE
+                </li>
+            </ul>
+        </div>
+
+    </div>
+
+
+    <div id="barChart">
+
+        <div id="barChartHC">
+            <div id="districtSelected"></div>
+            <input id="alldistrict" type="button" value="All Districts"
+                   onclick="resetBarChart()">
+        </div>
+        <div id="barChartID">
+            <select id="selectMode" onchange="updateBarOnSelect()">
+                <option value="Government" selected="selected">Government</option>
+                <option value="Private">Private</option>
+            </select>
+
+        </div>
+    </div>
+
+</div>
+<script src="drawMap.js" charset="utf-8"></script>
+</body>
+</html>

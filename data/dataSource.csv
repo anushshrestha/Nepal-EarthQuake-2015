@@ -1,0 +1,519 @@
+District,Division,Subdivision,no
+Taplejung,Human Causalities,Death,1
+Taplejung,Human Causalities,Injured,7
+Taplejung,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Taplejung,Infrastructural Damage,Govt. Houses Partially Damaged,69
+Taplejung,Infrastructural Damage,Private Houses Fully Damaged,4
+Taplejung,Infrastructural Damage,Private Houses Partially Damaged,28
+Taplejung,No of hits,No of hits,0
+Panchthar,Human Causalities,Death,0
+Panchthar,Human Causalities,Injured,9
+Panchthar,Infrastructural Damage,Govt. Houses Fully Damaged,22
+Panchthar,Infrastructural Damage,Govt. Houses Partially Damaged,5
+Panchthar,Infrastructural Damage,Private Houses Fully Damaged,229
+Panchthar,Infrastructural Damage,Private Houses Partially Damaged,926
+Panchthar,No of hits,No of hits,
+Ilam,Human Causalities,Death,0
+Ilam,Human Causalities,Injured,10
+Ilam,Infrastructural Damage,Govt. Houses Fully Damaged,34
+Ilam,Infrastructural Damage,Govt. Houses Partially Damaged,42
+Ilam,Infrastructural Damage,Private Houses Fully Damaged,375
+Ilam,Infrastructural Damage,Private Houses Partially Damaged,2647
+Ilam,No of hits,No of hits,0
+Jhapa,Human Causalities,Death,1
+Jhapa,Human Causalities,Injured,25
+Jhapa,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Jhapa,Infrastructural Damage,Govt. Houses Partially Damaged,46
+Jhapa,Infrastructural Damage,Private Houses Fully Damaged,95
+Jhapa,Infrastructural Damage,Private Houses Partially Damaged,144
+Jhapa,No of hits,No of hits,0
+Morang,Human Causalities,Death,2
+Morang,Human Causalities,Injured,59
+Morang,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Morang,Infrastructural Damage,Govt. Houses Partially Damaged,51
+Morang,Infrastructural Damage,Private Houses Fully Damaged,3
+Morang,Infrastructural Damage,Private Houses Partially Damaged,112
+Morang,No of hits,No of hits,0
+Sunsari,Human Causalities,Death,9
+Sunsari,Human Causalities,Injured,35
+Sunsari,Infrastructural Damage,Govt. Houses Fully Damaged,5
+Sunsari,Infrastructural Damage,Govt. Houses Partially Damaged,83
+Sunsari,Infrastructural Damage,Private Houses Fully Damaged,7
+Sunsari,Infrastructural Damage,Private Houses Partially Damaged,375
+Sunsari,No of hits,No of hits,0
+Dhankuta,Human Causalities,Death,0
+Dhankuta,Human Causalities,Injured,5
+Dhankuta,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Dhankuta,Infrastructural Damage,Govt. Houses Partially Damaged,39
+Dhankuta,Infrastructural Damage,Private Houses Fully Damaged,929
+Dhankuta,Infrastructural Damage,Private Houses Partially Damaged,1500
+Dhankuta,No of hits,No of hits,0
+Tehrathum,Human Causalities,Death,1
+Tehrathum,Human Causalities,Injured,14
+Tehrathum,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Tehrathum,Infrastructural Damage,Govt. Houses Partially Damaged,60
+Tehrathum,Infrastructural Damage,Private Houses Fully Damaged,180
+Tehrathum,Infrastructural Damage,Private Houses Partially Damaged,1901
+Tehrathum,No of hits,No of hits,0
+Bhojpur,Human Causalities,Death,2
+Bhojpur,Human Causalities,Injured,13
+Bhojpur,Infrastructural Damage,Govt. Houses Fully Damaged,22
+Bhojpur,Infrastructural Damage,Govt. Houses Partially Damaged,65
+Bhojpur,Infrastructural Damage,Private Houses Fully Damaged,3194
+Bhojpur,Infrastructural Damage,Private Houses Partially Damaged,6316
+Bhojpur,No of hits,No of hits,0
+Shankhuwasabha,Human Causalities,Death,0
+Shankhuwasabha,Human Causalities,Injured,8
+Shankhuwasabha,Infrastructural Damage,Govt. Houses Fully Damaged,88
+Shankhuwasabha,Infrastructural Damage,Govt. Houses Partially Damaged,208
+Shankhuwasabha,Infrastructural Damage,Private Houses Fully Damaged,1886
+Shankhuwasabha,Infrastructural Damage,Private Houses Partially Damaged,4443
+Shankhuwasabha,No of hits,No of hits,0
+Solukhumbu,Human Causalities,Death,22
+Solukhumbu,Human Causalities,Injured,100
+Solukhumbu,Infrastructural Damage,Govt. Houses Fully Damaged,75
+Solukhumbu,Infrastructural Damage,Govt. Houses Partially Damaged,142
+Solukhumbu,Infrastructural Damage,Private Houses Fully Damaged,9172
+Solukhumbu,Infrastructural Damage,Private Houses Partially Damaged,11137
+Solukhumbu,No of hits,No of hits,0
+Khotang,Human Causalities,Death,0
+Khotang,Human Causalities,Injured,8
+Khotang,Infrastructural Damage,Govt. Houses Fully Damaged,18
+Khotang,Infrastructural Damage,Govt. Houses Partially Damaged,55
+Khotang,Infrastructural Damage,Private Houses Fully Damaged,6167
+Khotang,Infrastructural Damage,Private Houses Partially Damaged,12780
+Khotang,No of hits,No of hits,0
+Okhaldhunga,Human Causalities,Death,20
+Okhaldhunga,Human Causalities,Injured,61
+Okhaldhunga,Infrastructural Damage,Govt. Houses Fully Damaged,18
+Okhaldhunga,Infrastructural Damage,Govt. Houses Partially Damaged,38
+Okhaldhunga,Infrastructural Damage,Private Houses Fully Damaged,10031
+Okhaldhunga,Infrastructural Damage,Private Houses Partially Damaged,3107
+Okhaldhunga,No of hits,No of hits,0
+Udayapur,Human Causalities,Death,1
+Udayapur,Human Causalities,Injured,35
+Udayapur,Infrastructural Damage,Govt. Houses Fully Damaged,63
+Udayapur,Infrastructural Damage,Govt. Houses Partially Damaged,684
+Udayapur,Infrastructural Damage,Private Houses Fully Damaged,37
+Udayapur,Infrastructural Damage,Private Houses Partially Damaged,1069
+Udayapur,No of hits,No of hits,0
+Siraha,Human Causalities,Death,1
+Siraha,Human Causalities,Injured,39
+Siraha,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Siraha,Infrastructural Damage,Govt. Houses Partially Damaged,20
+Siraha,Infrastructural Damage,Private Houses Fully Damaged,0
+Siraha,Infrastructural Damage,Private Houses Partially Damaged,540
+Siraha,No of hits,No of hits,0
+Saptari,Human Causalities,Death,0
+Saptari,Human Causalities,Injured,24
+Saptari,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Saptari,Infrastructural Damage,Govt. Houses Partially Damaged,47
+Saptari,Infrastructural Damage,Private Houses Fully Damaged,0
+Saptari,Infrastructural Damage,Private Houses Partially Damaged,1161
+Saptari,No of hits,No of hits,0
+Dhanusha,Human Causalities,Death,1
+Dhanusha,Human Causalities,Injured,45
+Dhanusha,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Dhanusha,Infrastructural Damage,Govt. Houses Partially Damaged,8
+Dhanusha,Infrastructural Damage,Private Houses Fully Damaged,4
+Dhanusha,Infrastructural Damage,Private Houses Partially Damaged,47
+Dhanusha,No of hits,No of hits,0
+Mahottari,Human Causalities,Death,4
+Mahottari,Human Causalities,Injured,16
+Mahottari,Infrastructural Damage,Govt. Houses Fully Damaged,10
+Mahottari,Infrastructural Damage,Govt. Houses Partially Damaged,14
+Mahottari,Infrastructural Damage,Private Houses Fully Damaged,500
+Mahottari,Infrastructural Damage,Private Houses Partially Damaged,600
+Mahottari,No of hits,No of hits,0
+Sarlahi,Human Causalities,Death,2
+Sarlahi,Human Causalities,Injured,70
+Sarlahi,Infrastructural Damage,Govt. Houses Fully Damaged,7
+Sarlahi,Infrastructural Damage,Govt. Houses Partially Damaged,27
+Sarlahi,Infrastructural Damage,Private Houses Fully Damaged,0
+Sarlahi,Infrastructural Damage,Private Houses Partially Damaged,0
+Sarlahi,No of hits,No of hits,0
+Sindhuli,Human Causalities,Death,15
+Sindhuli,Human Causalities,Injured,230
+Sindhuli,Infrastructural Damage,Govt. Houses Fully Damaged,92
+Sindhuli,Infrastructural Damage,Govt. Houses Partially Damaged,231
+Sindhuli,Infrastructural Damage,Private Houses Fully Damaged,18197
+Sindhuli,Infrastructural Damage,Private Houses Partially Damaged,10028
+Sindhuli,No of hits,No of hits,0
+Ramechhap,Human Causalities,Death,42
+Ramechhap,Human Causalities,Injured,134
+Ramechhap,Infrastructural Damage,Govt. Houses Fully Damaged,54
+Ramechhap,Infrastructural Damage,Govt. Houses Partially Damaged,56
+Ramechhap,Infrastructural Damage,Private Houses Fully Damaged,26743
+Ramechhap,Infrastructural Damage,Private Houses Partially Damaged,13173
+Ramechhap,No of hits,No of hits,1
+Dolakha,Human Causalities,Death,178
+Dolakha,Human Causalities,Injured,661
+Dolakha,Infrastructural Damage,Govt. Houses Fully Damaged,517
+Dolakha,Infrastructural Damage,Govt. Houses Partially Damaged,0
+Dolakha,Infrastructural Damage,Private Houses Fully Damaged,48880
+Dolakha,Infrastructural Damage,Private Houses Partially Damaged,3120
+Dolakha,No of hits,No of hits,9
+RASUWA,Human Causalities,Death,660
+RASUWA,Human Causalities,Injured,771
+RASUWA,Infrastructural Damage,Govt. Houses Fully Damaged,8
+RASUWA,Infrastructural Damage,Govt. Houses Partially Damaged,4
+RASUWA,Infrastructural Damage,Private Houses Fully Damaged,11368
+RASUWA,Infrastructural Damage,Private Houses Partially Damaged,267
+RASUWA,No of hits,No of hits,3
+Sindhupalchok,Human Causalities,Death,3557
+Sindhupalchok,Human Causalities,Injured,1569
+Sindhupalchok,Infrastructural Damage,Govt. Houses Fully Damaged,710
+Sindhupalchok,Infrastructural Damage,Govt. Houses Partially Damaged,37
+Sindhupalchok,Infrastructural Damage,Private Houses Fully Damaged,63885
+Sindhupalchok,Infrastructural Damage,Private Houses Partially Damaged,2751
+Sindhupalchok,No of hits,No of hits,7
+Nuwakot,Human Causalities,Death,1109
+Nuwakot,Human Causalities,Injured,1050
+Nuwakot,Infrastructural Damage,Govt. Houses Fully Damaged,15
+Nuwakot,Infrastructural Damage,Govt. Houses Partially Damaged,14
+Nuwakot,Infrastructural Damage,Private Houses Fully Damaged,75562
+Nuwakot,Infrastructural Damage,Private Houses Partially Damaged,4200
+Nuwakot,No of hits,No of hits,3
+Dhading,Human Causalities,Death,680
+Dhading,Human Causalities,Injured,1218
+Dhading,Infrastructural Damage,Govt. Houses Fully Damaged,93
+Dhading,Infrastructural Damage,Govt. Houses Partially Damaged,58
+Dhading,Infrastructural Damage,Private Houses Fully Damaged,81313
+Dhading,Infrastructural Damage,Private Houses Partially Damaged,3092
+Dhading,No of hits,No of hits,4
+Kathmandu,Human Causalities,Death,1233
+Kathmandu,Human Causalities,Injured,7950
+Kathmandu,Infrastructural Damage,Govt. Houses Fully Damaged,99
+Kathmandu,Infrastructural Damage,Govt. Houses Partially Damaged,296
+Kathmandu,Infrastructural Damage,Private Houses Fully Damaged,43805
+Kathmandu,Infrastructural Damage,Private Houses Partially Damaged,55131
+Kathmandu,No of hits,No of hits,0
+Lalitpur,Human Causalities,Death,180
+Lalitpur,Human Causalities,Injured,3051
+Lalitpur,Infrastructural Damage,Govt. Houses Fully Damaged,217
+Lalitpur,Infrastructural Damage,Govt. Houses Partially Damaged,198
+Lalitpur,Infrastructural Damage,Private Houses Fully Damaged,17444
+Lalitpur,Infrastructural Damage,Private Houses Partially Damaged,8064
+Lalitpur,No of hits,No of hits,0
+Bhaktapur,Human Causalities,Death,333
+Bhaktapur,Human Causalities,Injured,2101
+Bhaktapur,Infrastructural Damage,Govt. Houses Fully Damaged,5
+Bhaktapur,Infrastructural Damage,Govt. Houses Partially Damaged,51
+Bhaktapur,Infrastructural Damage,Private Houses Fully Damaged,18900
+Bhaktapur,Infrastructural Damage,Private Houses Partially Damaged,9054
+Bhaktapur,No of hits,No of hits,0
+Kavre,Human Causalities,Death,318
+Kavre,Human Causalities,Injured,1179
+Kavre,Infrastructural Damage,Govt. Houses Fully Damaged,48
+Kavre,Infrastructural Damage,Govt. Houses Partially Damaged,31
+Kavre,Infrastructural Damage,Private Houses Fully Damaged,49933
+Kavre,Infrastructural Damage,Private Houses Partially Damaged,23714
+Kavre,No of hits,No of hits,2
+Makwanpur,Human Causalities,Death,33
+Makwanpur,Human Causalities,Injured,229
+Makwanpur,Infrastructural Damage,Govt. Houses Fully Damaged,46
+Makwanpur,Infrastructural Damage,Govt. Houses Partially Damaged,177
+Makwanpur,Infrastructural Damage,Private Houses Fully Damaged,20035
+Makwanpur,Infrastructural Damage,Private Houses Partially Damaged,17383
+Makwanpur,No of hits,No of hits,0
+Rautahat,Human Causalities,Death,3
+Rautahat,Human Causalities,Injured,38
+Rautahat,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Rautahat,Infrastructural Damage,Govt. Houses Partially Damaged,9
+Rautahat,Infrastructural Damage,Private Houses Fully Damaged,70
+Rautahat,Infrastructural Damage,Private Houses Partially Damaged,472
+Rautahat,No of hits,No of hits,0
+Bara,Human Causalities,Death,2
+Bara,Human Causalities,Injured,62
+Bara,Infrastructural Damage,Govt. Houses Fully Damaged,1
+Bara,Infrastructural Damage,Govt. Houses Partially Damaged,0
+Bara,Infrastructural Damage,Private Houses Fully Damaged,50
+Bara,Infrastructural Damage,Private Houses Partially Damaged,0
+Bara,No of hits,No of hits,0
+Parsa,Human Causalities,Death,6
+Parsa,Human Causalities,Injured,50
+Parsa,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Parsa,Infrastructural Damage,Govt. Houses Partially Damaged,12
+Parsa,Infrastructural Damage,Private Houses Fully Damaged,0
+Parsa,Infrastructural Damage,Private Houses Partially Damaged,35
+Parsa,No of hits,No of hits,0
+Chitwan,Human Causalities,Death,10
+Chitwan,Human Causalities,Injured,143
+Chitwan,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Chitwan,Infrastructural Damage,Govt. Houses Partially Damaged,40
+Chitwan,Infrastructural Damage,Private Houses Fully Damaged,472
+Chitwan,Infrastructural Damage,Private Houses Partially Damaged,754
+Chitwan,No of hits,No of hits,0
+Nawalparasi,Human Causalities,Death,1
+Nawalparasi,Human Causalities,Injured,41
+Nawalparasi,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Nawalparasi,Infrastructural Damage,Govt. Houses Partially Damaged,14
+Nawalparasi,Infrastructural Damage,Private Houses Fully Damaged,910
+Nawalparasi,Infrastructural Damage,Private Houses Partially Damaged,3500
+Nawalparasi,No of hits,No of hits,0
+Rupandehi,Human Causalities,Death,0
+Rupandehi,Human Causalities,Injured,39
+Rupandehi,Infrastructural Damage,Govt. Houses Fully Damaged,1
+Rupandehi,Infrastructural Damage,Govt. Houses Partially Damaged,17
+Rupandehi,Infrastructural Damage,Private Houses Fully Damaged,1
+Rupandehi,Infrastructural Damage,Private Houses Partially Damaged,79
+Rupandehi,No of hits,No of hits,0
+Kapilbastu,Human Causalities,Death,0
+Kapilbastu,Human Causalities,Injured,6
+Kapilbastu,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Kapilbastu,Infrastructural Damage,Govt. Houses Partially Damaged,23
+Kapilbastu,Infrastructural Damage,Private Houses Fully Damaged,0
+Kapilbastu,Infrastructural Damage,Private Houses Partially Damaged,66
+Kapilbastu,No of hits,No of hits,0
+Palpa,Human Causalities,Death,1
+Palpa,Human Causalities,Injured,16
+Palpa,Infrastructural Damage,Govt. Houses Fully Damaged,2
+Palpa,Infrastructural Damage,Govt. Houses Partially Damaged,24
+Palpa,Infrastructural Damage,Private Houses Fully Damaged,1434
+Palpa,Infrastructural Damage,Private Houses Partially Damaged,2665
+Palpa,No of hits,No of hits,0
+Arghakhanchi,Human Causalities,Death,0
+Arghakhanchi,Human Causalities,Injured,0
+Arghakhanchi,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Arghakhanchi,Infrastructural Damage,Govt. Houses Partially Damaged,8
+Arghakhanchi,Infrastructural Damage,Private Houses Fully Damaged,258
+Arghakhanchi,Infrastructural Damage,Private Houses Partially Damaged,1053
+Arghakhanchi,No of hits,No of hits,0
+Gulmi,Human Causalities,Death,1
+Gulmi,Human Causalities,Injured,11
+Gulmi,Infrastructural Damage,Govt. Houses Fully Damaged,81
+Gulmi,Infrastructural Damage,Govt. Houses Partially Damaged,277
+Gulmi,Infrastructural Damage,Private Houses Fully Damaged,2624
+Gulmi,Infrastructural Damage,Private Houses Partially Damaged,5114
+Gulmi,No of hits,No of hits,0
+Shyanja,Human Causalities,Death,1
+Shyanja,Human Causalities,Injured,23
+Shyanja,Infrastructural Damage,Govt. Houses Fully Damaged,9
+Shyanja,Infrastructural Damage,Govt. Houses Partially Damaged,49
+Shyanja,Infrastructural Damage,Private Houses Fully Damaged,5003
+Shyanja,Infrastructural Damage,Private Houses Partially Damaged,11829
+Shyanja,No of hits,No of hits,0
+Tanahu,Human Causalities,Death,0
+Tanahu,Human Causalities,Injured,27
+Tanahu,Infrastructural Damage,Govt. Houses Fully Damaged,22
+Tanahu,Infrastructural Damage,Govt. Houses Partially Damaged,54
+Tanahu,Infrastructural Damage,Private Houses Fully Damaged,4877
+Tanahu,Infrastructural Damage,Private Houses Partially Damaged,14474
+Tanahu,No of hits,No of hits,0
+Gorkha,Human Causalities,Death,449
+Gorkha,Human Causalities,Injured,952
+Gorkha,Infrastructural Damage,Govt. Houses Fully Damaged,227
+Gorkha,Infrastructural Damage,Govt. Houses Partially Damaged,36
+Gorkha,Infrastructural Damage,Private Houses Fully Damaged,59527
+Gorkha,Infrastructural Damage,Private Houses Partially Damaged,13428
+Gorkha,No of hits,No of hits,6
+Lamjung,Human Causalities,Death,5
+Lamjung,Human Causalities,Injured,40
+Lamjung,Infrastructural Damage,Govt. Houses Fully Damaged,39
+Lamjung,Infrastructural Damage,Govt. Houses Partially Damaged,48
+Lamjung,Infrastructural Damage,Private Houses Fully Damaged,10695
+Lamjung,Infrastructural Damage,Private Houses Partially Damaged,11535
+Lamjung,No of hits,No of hits,0
+Kaski,Human Causalities,Death,3
+Kaski,Human Causalities,Injured,38
+Kaski,Infrastructural Damage,Govt. Houses Fully Damaged,10
+Kaski,Infrastructural Damage,Govt. Houses Partially Damaged,45
+Kaski,Infrastructural Damage,Private Houses Fully Damaged,1793
+Kaski,Infrastructural Damage,Private Houses Partially Damaged,4947
+Kaski,No of hits,No of hits,0
+Manang,Human Causalities,Death,0
+Manang,Human Causalities,Injured,1
+Manang,Infrastructural Damage,Govt. Houses Fully Damaged,8
+Manang,Infrastructural Damage,Govt. Houses Partially Damaged,12
+Manang,Infrastructural Damage,Private Houses Fully Damaged,63
+Manang,Infrastructural Damage,Private Houses Partially Damaged,285
+Manang,No of hits,No of hits,0
+Mustang,Human Causalities,Death,0
+Mustang,Human Causalities,Injured,1
+Mustang,Infrastructural Damage,Govt. Houses Fully Damaged,2
+Mustang,Infrastructural Damage,Govt. Houses Partially Damaged,19
+Mustang,Infrastructural Damage,Private Houses Fully Damaged,76
+Mustang,Infrastructural Damage,Private Houses Partially Damaged,409
+Mustang,No of hits,No of hits,0
+Myagdi,Human Causalities,Death,1
+Myagdi,Human Causalities,Injured,10
+Myagdi,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Myagdi,Infrastructural Damage,Govt. Houses Partially Damaged,0
+Myagdi,Infrastructural Damage,Private Houses Fully Damaged,115
+Myagdi,Infrastructural Damage,Private Houses Partially Damaged,1077
+Myagdi,No of hits,No of hits,0
+Baglung,Human Causalities,Death,1
+Baglung,Human Causalities,Injured,14
+Baglung,Infrastructural Damage,Govt. Houses Fully Damaged,2
+Baglung,Infrastructural Damage,Govt. Houses Partially Damaged,4
+Baglung,Infrastructural Damage,Private Houses Fully Damaged,1959
+Baglung,Infrastructural Damage,Private Houses Partially Damaged,1963
+Baglung,No of hits,No of hits,0
+Parbat,Human Causalities,Death,0
+Parbat,Human Causalities,Injured,21
+Parbat,Infrastructural Damage,Govt. Houses Fully Damaged,12
+Parbat,Infrastructural Damage,Govt. Houses Partially Damaged,63
+Parbat,Infrastructural Damage,Private Houses Fully Damaged,3542
+Parbat,Infrastructural Damage,Private Houses Partially Damaged,7735
+Parbat,No of hits,No of hits,0
+Dang,Human Causalities,Death,0
+Dang,Human Causalities,Injured,10
+Dang,Infrastructural Damage,Govt. Houses Fully Damaged,1
+Dang,Infrastructural Damage,Govt. Houses Partially Damaged,28
+Dang,Infrastructural Damage,Private Houses Fully Damaged,7
+Dang,Infrastructural Damage,Private Houses Partially Damaged,1080
+Dang,No of hits,No of hits,0
+Pyuthan,Human Causalities,Death,0
+Pyuthan,Human Causalities,Injured,9
+Pyuthan,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Pyuthan,Infrastructural Damage,Govt. Houses Partially Damaged,0
+Pyuthan,Infrastructural Damage,Private Houses Fully Damaged,3
+Pyuthan,Infrastructural Damage,Private Houses Partially Damaged,66
+Pyuthan,No of hits,No of hits,0
+Rolpa,Human Causalities,Death,1
+Rolpa,Human Causalities,Injured,2
+Rolpa,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Rolpa,Infrastructural Damage,Govt. Houses Partially Damaged,6
+Rolpa,Infrastructural Damage,Private Houses Fully Damaged,62
+Rolpa,Infrastructural Damage,Private Houses Partially Damaged,159
+Rolpa,No of hits,No of hits,0
+Salyan,Human Causalities,Death,0
+Salyan,Human Causalities,Injured,2
+Salyan,Infrastructural Damage,Govt. Houses Fully Damaged,1
+Salyan,Infrastructural Damage,Govt. Houses Partially Damaged,17
+Salyan,Infrastructural Damage,Private Houses Fully Damaged,24
+Salyan,Infrastructural Damage,Private Houses Partially Damaged,282
+Salyan,No of hits,No of hits,0
+Rukum,Human Causalities,Death,1
+Rukum,Human Causalities,Injured,6
+Rukum,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Rukum,Infrastructural Damage,Govt. Houses Partially Damaged,47
+Rukum,Infrastructural Damage,Private Houses Fully Damaged,117
+Rukum,Infrastructural Damage,Private Houses Partially Damaged,328
+Rukum,No of hits,No of hits,0
+Dolpa,Human Causalities,Death,0
+Dolpa,Human Causalities,Injured,0
+Dolpa,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Dolpa,Infrastructural Damage,Govt. Houses Partially Damaged,0
+Dolpa,Infrastructural Damage,Private Houses Fully Damaged,1
+Dolpa,Infrastructural Damage,Private Houses Partially Damaged,5
+Dolpa,No of hits,No of hits,0
+Mugu,Human Causalities,Death,0
+Mugu,Human Causalities,Injured,0
+Mugu,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Mugu,Infrastructural Damage,Govt. Houses Partially Damaged,0
+Mugu,Infrastructural Damage,Private Houses Fully Damaged,0
+Mugu,Infrastructural Damage,Private Houses Partially Damaged,0
+Mugu,No of hits,No of hits,0
+Humla,Human Causalities,Death,0
+Humla,Human Causalities,Injured,0
+Humla,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Humla,Infrastructural Damage,Govt. Houses Partially Damaged,0
+Humla,Infrastructural Damage,Private Houses Fully Damaged,0
+Humla,Infrastructural Damage,Private Houses Partially Damaged,0
+Humla,No of hits,No of hits,0
+Jumla,Human Causalities,Death,0
+Jumla,Human Causalities,Injured,2
+Jumla,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Jumla,Infrastructural Damage,Govt. Houses Partially Damaged,0
+Jumla,Infrastructural Damage,Private Houses Fully Damaged,0
+Jumla,Infrastructural Damage,Private Houses Partially Damaged,2
+Jumla,No of hits,No of hits,0
+Kalikot,Human Causalities,Death,0
+Kalikot,Human Causalities,Injured,0
+Kalikot,Infrastructural Damage,Govt. Houses Fully Damaged,3
+Kalikot,Infrastructural Damage,Govt. Houses Partially Damaged,17
+Kalikot,Infrastructural Damage,Private Houses Fully Damaged,4
+Kalikot,Infrastructural Damage,Private Houses Partially Damaged,21
+Kalikot,No of hits,No of hits,0
+Jajarkot,Human Causalities,Death,0
+Jajarkot,Human Causalities,Injured,3
+Jajarkot,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Jajarkot,Infrastructural Damage,Govt. Houses Partially Damaged,8
+Jajarkot,Infrastructural Damage,Private Houses Fully Damaged,0
+Jajarkot,Infrastructural Damage,Private Houses Partially Damaged,1877
+Jajarkot,No of hits,No of hits,0
+Dailekh,Human Causalities,Death,0
+Dailekh,Human Causalities,Injured,1
+Dailekh,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Dailekh,Infrastructural Damage,Govt. Houses Partially Damaged,25
+Dailekh,Infrastructural Damage,Private Houses Fully Damaged,1
+Dailekh,Infrastructural Damage,Private Houses Partially Damaged,216
+Dailekh,No of hits,No of hits,0
+Surkhet,Human Causalities,Death,0
+Surkhet,Human Causalities,Injured,3
+Surkhet,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Surkhet,Infrastructural Damage,Govt. Houses Partially Damaged,11
+Surkhet,Infrastructural Damage,Private Houses Fully Damaged,1
+Surkhet,Infrastructural Damage,Private Houses Partially Damaged,31
+Surkhet,No of hits,No of hits,0
+Bardiya,Human Causalities,Death,0
+Bardiya,Human Causalities,Injured,2
+Bardiya,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Bardiya,Infrastructural Damage,Govt. Houses Partially Damaged,0
+Bardiya,Infrastructural Damage,Private Houses Fully Damaged,0
+Bardiya,Infrastructural Damage,Private Houses Partially Damaged,40
+Bardiya,No of hits,No of hits,0
+Banke,Human Causalities,Death,0
+Banke,Human Causalities,Injured,1
+Banke,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Banke,Infrastructural Damage,Govt. Houses Partially Damaged,0
+Banke,Infrastructural Damage,Private Houses Fully Damaged,0
+Banke,Infrastructural Damage,Private Houses Partially Damaged,81
+Banke,No of hits,No of hits,0
+Kailali,Human Causalities,Death,0
+Kailali,Human Causalities,Injured,1
+Kailali,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Kailali,Infrastructural Damage,Govt. Houses Partially Damaged,5
+Kailali,Infrastructural Damage,Private Houses Fully Damaged,0
+Kailali,Infrastructural Damage,Private Houses Partially Damaged,4
+Kailali,No of hits,No of hits,0
+Doti,Human Causalities,Death,0
+Doti,Human Causalities,Injured,0
+Doti,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Doti,Infrastructural Damage,Govt. Houses Partially Damaged,1
+Doti,Infrastructural Damage,Private Houses Fully Damaged,0
+Doti,Infrastructural Damage,Private Houses Partially Damaged,0
+Doti,No of hits,No of hits,0
+Achhaam,Human Causalities,Death,0
+Achhaam,Human Causalities,Injured,0
+Achhaam,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Achhaam,Infrastructural Damage,Govt. Houses Partially Damaged,0
+Achhaam,Infrastructural Damage,Private Houses Fully Damaged,0
+Achhaam,Infrastructural Damage,Private Houses Partially Damaged,55
+Achhaam,No of hits,No of hits,0
+Bajura,Human Causalities,Death,0
+Bajura,Human Causalities,Injured,0
+Bajura,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Bajura,Infrastructural Damage,Govt. Houses Partially Damaged,0
+Bajura,Infrastructural Damage,Private Houses Fully Damaged,0
+Bajura,Infrastructural Damage,Private Houses Partially Damaged,1
+Bajura,No of hits,No of hits,0
+Bajhang,Human Causalities,Death,0
+Bajhang,Human Causalities,Injured,0
+Bajhang,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Bajhang,Infrastructural Damage,Govt. Houses Partially Damaged,0
+Bajhang,Infrastructural Damage,Private Houses Fully Damaged,0
+Bajhang,Infrastructural Damage,Private Houses Partially Damaged,0
+Bajhang,No of hits,No of hits,0
+Darchula,Human Causalities,Death,0
+Darchula,Human Causalities,Injured,0
+Darchula,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Darchula,Infrastructural Damage,Govt. Houses Partially Damaged,0
+Darchula,Infrastructural Damage,Private Houses Fully Damaged,0
+Darchula,Infrastructural Damage,Private Houses Partially Damaged,0
+Darchula,No of hits,No of hits,0
+Baitadi,Human Causalities,Death,0
+Baitadi,Human Causalities,Injured,0
+Baitadi,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Baitadi,Infrastructural Damage,Govt. Houses Partially Damaged,0
+Baitadi,Infrastructural Damage,Private Houses Fully Damaged,0
+Baitadi,Infrastructural Damage,Private Houses Partially Damaged,0
+Baitadi,No of hits,No of hits,0
+Dadeldhura,Human Causalities,Death,0
+Dadeldhura,Human Causalities,Injured,0
+Dadeldhura,Infrastructural Damage,Govt. Houses Fully Damaged,0
+Dadeldhura,Infrastructural Damage,Govt. Houses Partially Damaged,0
+Dadeldhura,Infrastructural Damage,Private Houses Fully Damaged,0
+Dadeldhura,Infrastructural Damage,Private Houses Partially Damaged,1
+Dadeldhura,No of hits,No of hits,0
